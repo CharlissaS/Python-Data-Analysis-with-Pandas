@@ -30,10 +30,9 @@ Example Notebooks:
 01_data_loading_and_cleaning.ipynb: Demonstrates how to load and clean data using Pandas.
 02_data_exploration.ipynb: Shows exploratory data analysis techniques.
 03_statistical_analysis.ipynb: Basic statistical analysis using Pandas.
+
 Contributors:
-Your Name @your-username
+Charlissa Smith @charlissa-smith
+
 License:
 This project is licensed under the MIT License. See the LICENSE file for details.
-
-Why This Repository?
-This repository serves as a demonstration of your skills in Python programming and data analysis using Pandas. It provides valuable examples for anyone learning or interested in data manipulation and visualization techniques. By sharing this repository, you showcase your ability to work with data and present insights effectively.
